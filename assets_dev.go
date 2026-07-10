@@ -1,5 +1,5 @@
 // +build !release
-//go:generate go run github.com/UnnoTed/fileb0x b0x.yaml
+//go:generate go run github.com/UnnoTed/fileb0x@v1.1.4 b0x.yaml
 
 package main
 
